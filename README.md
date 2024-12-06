@@ -1,4 +1,4 @@
-This paper provides the improvement of a custom LR(1) parser for parsing JSON (JavaScript Object Notation)
+This code provides the improvement of a custom LR(1) parser for parsing JSON (JavaScript Object Notation)
  facts, a extensively used format for information interchange in cutting-edge internet packages. The LR(1) parser, regarded for
  its deterministic and efficient bottom-up parsing technique, is especially applicable for dealing with complex and nested systems
  normally determined in JSON. The parser is designed to handle JSON’s context-free grammar, which includes objects, arrays,
